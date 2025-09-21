@@ -1,0 +1,3 @@
+/home/caiwenbo/桌面/OpenCV_project/build/CMakeFiles/armor.dir
+/home/caiwenbo/桌面/OpenCV_project/build/CMakeFiles/edit_cache.dir
+/home/caiwenbo/桌面/OpenCV_project/build/CMakeFiles/rebuild_cache.dir

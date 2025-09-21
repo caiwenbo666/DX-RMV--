@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/caiwenbo/桌面/OpenCV_project/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/armor.dir/src/armor_detector_v2.cpp.o -c /home/caiwenbo/桌面/OpenCV_project/src/armor_detector_v2.cpp",
+  "file": "/home/caiwenbo/桌面/OpenCV_project/src/armor_detector_v2.cpp"
+}
+]
